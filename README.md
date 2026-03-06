@@ -35,7 +35,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[View Live on Vercel](#)** ← *(replace with your deployed URL)*
+🔗[ **[[View Live on Vercel](https://serene-gold.vercel.app/)](#)** 
 
 ---
 
